@@ -1,0 +1,28 @@
+{
+  "name": "Free Nat 5 Business Management Revision — Scotland",
+  "short_name": "Nat 5 Business Management",
+  "description": "Free Nat 5 Business Management revision for Scotland. Practice questions on understanding business, marketing, operations, people and finance, with worksheets, flashcards and mock tests.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f6fa",
+  "theme_color": "#0065bd",
+  "scope": "./",
+  "lang": "en-GB",
+  "categories": [
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
