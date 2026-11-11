@@ -464,7 +464,7 @@ const LINKS=[
   "Official past papers, marking instructions, course spec and 2026–27 changes"
  ],
  [
-  "https://www.bbc.co.uk/bitesize/subjects/zj7k7ty",
+  "https://www.bbc.co.uk/bitesize/subjects/zd6fcdm",
   "BBC Bitesize — Nat 5 Business Management",
   "Notes and tests for each area"
  ],
